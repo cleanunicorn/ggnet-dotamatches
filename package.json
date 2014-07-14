@@ -1,0 +1,24 @@
+{
+  "name": "ggnet-dotamatches",
+  "version": "0.0.0",
+  "description": "ggnet-dotamatches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydrarulz/ggnet-dotamatches.git"
+  },
+  "dependencies": {
+  	"request": "*",
+  	"jsdom": "*",
+  	"moment": "*"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hydrarulz/ggnet-dotamatches/issues"
+  },
+  "homepage": "https://github.com/hydrarulz/ggnet-dotamatches"
+}
